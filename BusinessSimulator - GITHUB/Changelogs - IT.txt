@@ -1,0 +1,6 @@
+CHANGELOGS VERSIONE 1.1.0
+Rilascio 13/07/2024
+
+- Aggiunto Sistema Email Funzionante
+- Aggiunto il pagamento agli incarichi (per adesso riceverai 0 euro ogni incarico)
+- Migliorata l'estetica del gioco.
